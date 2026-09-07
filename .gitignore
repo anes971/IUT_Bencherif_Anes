@@ -1,0 +1,9 @@
+﻿build/
+dist/
+nbproject/private/
+.generated_files/
+.vs/
+*.user
+*.suo
+Debug/
+Release/
